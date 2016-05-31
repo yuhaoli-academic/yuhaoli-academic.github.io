@@ -5,7 +5,7 @@ title: CV
 permalink: /cv/
 ---
 
-Download [PDF version](https://raw.githubusercontent.com/yuhaoli-academic/site/master/YuhaoLI%20-%20CV%20-%202016-05-28.pdf).
+Download [PDF version](https://raw.githubusercontent.com/yuhaoli-academic/master/YuhaoLI%20-%20CV%20-%202016-05-31.pdf).
 
 # Yuhao LI
 PhD candidate in Economics, Universidad Carlos III de Madrid
@@ -16,7 +16,7 @@ PHONE: (+34) 693-695-020
 
 EMAIL: [yuli@eco.uc3m.es](mailto:yuli@eco.uc3m.es)
 
-WEB: [http://yuhaoli-academic.github.io/site/](http://yuhaoli-academic.github.io/site/)
+WEB: [http://yuhaoli-academic.github.io/](http://yuhaoli-academic.github.io/)
 
 
 ## Education
