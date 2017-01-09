@@ -35,17 +35,13 @@ WEB: [http://yuhaoli-academic.github.io/](http://yuhaoli-academic.github.io/)
 
 ## Working in Process
 
-* Modeling Marked Self-Exciting Process
-  * In this paper,we propose a new method to model the self-exciting process with
-    marks when more than one observations exist.We show that our method is flexible
-    in both continuous and discrete mark space, and can be applied to handle the
-    case where dependent censoring is presented. We demonstrate the new estimation
-    method via a simulation of ETAS model, and applied it to study the cost-sharing
-    effect in health insurance using the RAND health insurance experiment data.
+* A Marked Self-Exciting Model of Medical Care Use
+	* In this paper, we propose a marked self-exciting process to fit the Rand health insurance experiment claim-based (episode-based) data. Such modelling method aims to address the individual dynamic behavior and sudden jumps in the process. Each event (visiting to a health care service provider) is represented as a point stored in a counting process that records the behavior of one individual. Marks (costs) associated with the occurrence of events is included in the model and a generic probabilistic structure of the marked intensity is presented in this paper. A minimal distance method first developed by Kopperschmidt and Stute (2013) is used to find the estimators. The model uses patient’s personal insurance claim records to characterize individual heterogeneity. We find that individuals are insensitive to the change of the cost of medical care which is consistent with the finding of Keeler and Rolph(1988).
+
 
 ## Academic & Teaching Experience
 
-* TA for Principle of Economics (undergraduate level), Universidad Carlos III de Madrid, Spain, 2015-2016
+* TA for Principle of Economics (undergraduate level), Universidad Carlos III de Madrid, Spain, 2015-2016, 2016-2017
 
 * TA for Intermediate Microeconomics (undergraduate level), Universidad Carlos III de Madrid, Spain, 2014~2015
 
