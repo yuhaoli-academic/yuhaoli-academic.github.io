@@ -21,7 +21,7 @@ WEB: [http://yuhaoli-academic.github.io/](http://yuhaoli-academic.github.io/)
 
 ## Education
 
-* Ph.D in Economics, Universidad Carlos III de Madrid, Spain, 2015-2018 (expected)
+* Ph.D in Economics, Universidad Carlos III de Madrid, Spain, 2015-
 
 * MRes in Economics Analysis, Universidad Carlos III de Madrid, Spain, 2013-2015
 
