@@ -31,7 +31,7 @@ WEB: [http://yuhaoli-academic.github.io/](http://yuhaoli-academic.github.io/)
 
 ## Research interests
 
-* Micro-econometrics, Point Process, Survival Analysis
+* Micro-econometrics, Point Process, Duration Analysis
 
 ## Working in Process
 
