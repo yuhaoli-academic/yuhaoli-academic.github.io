@@ -12,4 +12,4 @@ Both the above are not seminal achievements in science, but they are useful. Thi
 
 See it in action [here](http://people.csail.mit.edu/gchauras).
 
-Feel free to send me pull requests with better responsive performance or cleaner HTML/CSS.
+
