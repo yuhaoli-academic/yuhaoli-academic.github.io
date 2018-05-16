@@ -8,19 +8,15 @@ permalink: /cv/
 Download [PDF version](https://www.dropbox.com/home/website/yuhaoli-academic.github.io?preview=cv_download.pdf).
 
 # Yuhao LI, 李愚昊
-PhD candidate in Economics, Universidad Carlos III de Madrid
-
-ADDRESS: Calle Madrid 126,28903 Getafe (Madrid),Spain
-
-PHONE: (+34) 693-695-020
-
-EMAIL: [yuli@eco.uc3m.es](mailto:yuli@eco.uc3m.es)
-
-WEB: [http://yuhaoli-academic.github.io/](http://yuhaoli-academic.github.io/)
+PhD candidate in Economics, Universidad Carlos III de Madrid  
+ADDRESS: Calle Madrid 126,28903 Getafe (Madrid),Spain   
+PHONE: (+34) 693-695-020    
+EMAIL: [yuli@eco.uc3m.es](mailto:yuli@eco.uc3m.es)    
+WEB: [http://yuhaoli-academic.github.io/](http://yuhaoli-academic.github.io/) 
 
 
 ## Education
-<font size = "2.95"> <ul>
+<font size = "3.0"> <ul>
 <li> Ph.D in Economics, Universidad Carlos III de Madrid, Spain, 2015- </li>
 
 <li> MRes in Economics Analysis, Universidad Carlos III de Madrid, Spain, 2013-2015 </li>
