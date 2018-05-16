@@ -7,7 +7,7 @@ permalink: /cv/
 
 Download [PDF version](https://www.dropbox.com/home/website/yuhaoli-academic.github.io?preview=cv_download.pdf).
 
-# Yuhao LI,李愚昊
+# Yuhao LI, 李愚昊
 PhD candidate in Economics, Universidad Carlos III de Madrid
 
 ADDRESS: Calle Madrid 126,28903 Getafe (Madrid),Spain
