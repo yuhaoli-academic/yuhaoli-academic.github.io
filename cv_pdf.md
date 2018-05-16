@@ -58,9 +58,9 @@ WEB: [http://yuhaoli-academic.github.io/](http://yuhaoli-academic.github.io/)
 ## Scholarship & Honor 
 * Champion, Econometric Game 2018 Edition, Amsterdam, Apr,2018
 
-* Spanish FPI scholarship, Spain, 2015-2018
+* Spanish FPI scholarship, Spain, 2015-2019
 
-* Graduate Program Scholarship, UC3M, Spain, 2013-2015
+* Graduate Program Scholarship, UC3M, Spain, 2014-2015
 
 ## Computer Skills
 

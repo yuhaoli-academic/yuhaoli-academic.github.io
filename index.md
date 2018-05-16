@@ -15,3 +15,7 @@ Universidad Carlos III de Madrid <br />
 Calle Madrid 126 28903 <br />
 Getafe (Spain) <br />
 Email: [yuli@eco.uc3m.es](mailto:yuli@eco.uc3m.es)
+
+<figure align="left">
+  <img src="images/UC3M.jpg" alt="UC3M" width="150" >
+</figure>
