@@ -20,14 +20,14 @@ WEB: [http://yuhaoli-academic.github.io/](http://yuhaoli-academic.github.io/)
 
 
 ## Education
+<font size = "2.95"> <ul>
+<li> Ph.D in Economics, Universidad Carlos III de Madrid, Spain, 2015- </li>
 
-* Ph.D in Economics, Universidad Carlos III de Madrid, Spain, 2015-
+<li> MRes in Economics Analysis, Universidad Carlos III de Madrid, Spain, 2013-2015 </li>
 
-* MRes in Economics Analysis, Universidad Carlos III de Madrid, Spain, 2013-2015
+<li> MSc in Economics, Barcelona Graduate School of Economics, Spain, 2012-2013 </li>
 
-* MSc in Economics, Barcelona Graduate School of Economics, Spain, 2012-2013
-
-* BSc in Economics, Southwestern University of Finance and Economics, China, 2008-2012
+<li> BSc in Economics, Southwestern University of Finance and Economics, China, 2008-2012 </li> </ul> </font>
 
 ## Research interests
 
@@ -43,37 +43,39 @@ WEB: [http://yuhaoli-academic.github.io/](http://yuhaoli-academic.github.io/)
 
 
 ## Academic & Teaching Experience
+<font size = "2.95"> <ul>
+<li> TA for Economics of European Integration (undergraduate level), Universidad Carlos III de Madrid, Spain,2017-2018 </li>
 
-* TA for Economics of European Integration (undergraduate level), Universidad Carlos III de Madrid, Spain,2017-2018
+<li> TA for Principle of Economics (undergraduate level), Universidad Carlos III de Madrid, Spain, 2015-2016, 2016-2017</li>
 
-* TA for Principle of Economics (undergraduate level), Universidad Carlos III de Madrid, Spain, 2015-2016, 2016-2017
+<li> TA for Intermediate Microeconomics (undergraduate level), Universidad Carlos III de Madrid, Spain, 2014~2015</li>
 
-* TA for Intermediate Microeconomics (undergraduate level), Universidad Carlos III de Madrid, Spain, 2014~2015
-
-* TA for International Trade (undergraduate level), Universidad Carlos III de Madrid, Spain, Fall 2014
+<li> TA for International Trade (undergraduate level), Universidad Carlos III de Madrid, Spain, Fall 2014 </li></ul></font>
 
 ## Conference
-* IAAE Montreal, June, 2018
+<font size = "2.95"> <ul>
+<li> IAAE Montreal, June, 2018 </li>
 
-* EEA-ESEM Lisbon, Aug, 2017
+<li> EEA-ESEM Lisbon, Aug, 2017 </li>
 
-* ENTER Jamboree (as discussant), Apr, 2016
+<li> ENTER Jamboree (as discussant), Apr, 2016 </li>
 
-* The XXVII IUSSP International Population Conference, Busan, Republic of Korean, 2013
+<li> The XXVII IUSSP International Population Conference, Busan, Republic of Korean, 2013 </li>
 
-* The ENRSP International Conference *Old Age Crisis and Pension Reform - Where do we stand ?* ,Poznan,Poland. 2012
+<li> The ENRSP International Conference *Old Age Crisis and Pension Reform - Where do we stand ?* ,Poznan,Poland. 2012 </li></ul></font>
 
 ## Scholarship & Honor 
-* Champion, Econometric Game 2018 Edition, Amsterdam, Apr,2018
+<font size = "2.95"> <ul>
+<li> Champion, Econometric Game 2018 Edition, Amsterdam, Apr,2018 </li>
 
-* Spanish FPI scholarship, Spain, 2015-2018
+<li> Spanish FPI scholarship, Spain, 2015-2018 </li>
 
-* Graduate Program Scholarship, UC3M, Spain, 2013-2015
+<li> Graduate Program Scholarship, UC3M, Spain, 2013-2015 </li></ul></font>
 
 ## Computer Skills
-
-* Python, R, Matlab, Linux Shell
+<font size = "2.95"> <ul>
+<li> Python, R, Matlab, Linux Shell </li></ul></font>
 
 ## Language
-
-* Chinese(native), English(fluent)
+<font size = "2.95"> <ul>
+<li> Chinese(native), English(fluent) </li></ul></font>
