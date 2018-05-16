@@ -43,7 +43,7 @@ WEB: [http://yuhaoli-academic.github.io/](http://yuhaoli-academic.github.io/)
 
 
 ## Academic & Teaching Experience
-<font size = "2.95"> <ul>
+<font size = "3.0"> <ul>
 <li> TA for Economics of European Integration (undergraduate level), Universidad Carlos III de Madrid, Spain,2017-2018 </li>
 
 <li> TA for Principle of Economics (undergraduate level), Universidad Carlos III de Madrid, Spain, 2015-2016, 2016-2017</li>
@@ -53,7 +53,7 @@ WEB: [http://yuhaoli-academic.github.io/](http://yuhaoli-academic.github.io/)
 <li> TA for International Trade (undergraduate level), Universidad Carlos III de Madrid, Spain, Fall 2014 </li></ul></font>
 
 ## Conference
-<font size = "2.95"> <ul>
+<font size = "3.0"> <ul>
 <li> IAAE Montreal, June, 2018 </li>
 
 <li> EEA-ESEM Lisbon, Aug, 2017 </li>
@@ -65,7 +65,7 @@ WEB: [http://yuhaoli-academic.github.io/](http://yuhaoli-academic.github.io/)
 <li> The ENRSP International Conference *Old Age Crisis and Pension Reform - Where do we stand ?* ,Poznan,Poland. 2012 </li></ul></font>
 
 ## Scholarship & Honor 
-<font size = "2.95"> <ul>
+<font size = "3.0"> <ul>
 <li> Champion, Econometric Game 2018 Edition, Amsterdam, Apr,2018 </li>
 
 <li> Spanish FPI scholarship, Spain, 2015-2018 </li>
@@ -73,9 +73,9 @@ WEB: [http://yuhaoli-academic.github.io/](http://yuhaoli-academic.github.io/)
 <li> Graduate Program Scholarship, UC3M, Spain, 2013-2015 </li></ul></font>
 
 ## Computer Skills
-<font size = "2.95"> <ul>
+<font size = "3.0"> <ul>
 <li> Python, R, Matlab, Linux Shell </li></ul></font>
 
 ## Language
-<font size = "2.95"> <ul>
+<font size = "3.0"> <ul>
 <li> Chinese(native), English(fluent) </li></ul></font>
