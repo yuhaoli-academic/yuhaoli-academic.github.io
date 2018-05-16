@@ -4,5 +4,7 @@ title: Miscellany
 permalink: /misc/
 ---
 
-{% include image.html url="images/misc.jpg" caption="" max_width="300px" align="right" %}
-Live Long and Prosper 
+<figure align="center">
+  <img src="images/misc.jpg" alt="Live Long and Prosper" width="350" >
+  <figcaption>Fig.1 Live Long and Prosper.</figcaption>
+</figure>
