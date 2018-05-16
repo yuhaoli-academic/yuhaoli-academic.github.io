@@ -5,7 +5,7 @@ title: CV
 permalink: /cv/
 ---
 
-Download [PDF version](https://www.dropbox.com/home/website/yuhaoli-academic.github.io?preview=cv_download.pdf).
+Download [PDF version](https://drive.google.com/file/d/10uWPajWG2b9GhkBLuF4fLAxFWHsyHNSr/preview).
 
 # Yuhao LI, 李愚昊
 PhD candidate in Economics, Universidad Carlos III de Madrid  
