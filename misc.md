@@ -41,3 +41,8 @@ permalink: /misc/
 
 </body>
 </html>
+
+{% slider height [bullets] [captions] %}
+  ![](https://raw.githubusercontent.com/yuhaoli-academic/yuhaoli-academic.github.io/master/images/misc.jpg)
+  ![](https://raw.githubusercontent.com/yuhaoli-academic/yuhaoli-academic.github.io/master/images/photo.jpeg)
+{% endslider %}

@@ -55,3 +55,6 @@ comments:
       num_posts: 5
       width: 580
       colorscheme: light
+
+# Image Slider See https://github.com/jekylltools/jekyll-ideal-image-slider
+iis_slider_array: []
