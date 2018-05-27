@@ -16,6 +16,6 @@ Calle Madrid 126 28903 <br />
 Getafe (Spain) <br />
 Email: [yuli@eco.uc3m.es](mailto:yuli@eco.uc3m.es)
 
-<img src="https://github.com/yuhaoli-academic/yuhaoli-academic.github.io/blob/master/images/header-logo.jpg" />
+<img src="https://78.media.tumblr.com/28a92b253dfca9ba2c9b846f17dc9405/tumblr_p9eh6zqwAQ1xuk2jbo1_500.png" />
 
 
