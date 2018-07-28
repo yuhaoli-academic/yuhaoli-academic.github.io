@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yuhao LI, 李愚昊
+title: Yuhao LI / 李愚昊
 permalink: /
 ---
 
