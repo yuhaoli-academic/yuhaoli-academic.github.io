@@ -39,10 +39,7 @@ permalink: /misc/
   </div>
 </div>
 
-<center>
-      <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=73bdf2&w=a&t=tt&d=ASLVZVpgFH0OOW3XvgH9qSb8s9QmStsd4DdATbeEgAU&ct=222222&co=eeeeee'></script>
 
-</center>
 
 
 </body>
