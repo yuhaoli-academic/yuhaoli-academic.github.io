@@ -39,7 +39,10 @@ permalink: /misc/
   </div>
 </div>
 
+<center>
+      <script type="text/javascript" src="//ra.revolvermaps.com/0/0/7.js?i=0s8tf8xjnd3&amp;m=0c&amp;c=ff0000&amp;cr1=ff8a00&amp;sx=0&amp;cw=eeeeee&amp;cb=67b3e8" async="async"></script>
 
+</center>
 
 
 </body>
