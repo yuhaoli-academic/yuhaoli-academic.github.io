@@ -40,7 +40,7 @@ permalink: /misc/
 </div>
 
 <center>
-      <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=8cc0f0&w=a&t=n&d=ASLVZVpgFH0OOW3XvgH9qSb8s9QmStsd4DdATbeEgAU&co=eeeeee'></script>
+      <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=8cc0f0&w=a&t=n&d=ASLVZVpgFH0OOW3XvgH9qSb8s9QmStsd4DdATbeEgAU&co=eeeeee&ct=222222'></script>
 
 </center>
 
