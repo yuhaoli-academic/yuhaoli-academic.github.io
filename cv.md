@@ -4,7 +4,19 @@ title: CV
 
 permalink: /cv/
 ---
+<html>
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123587654-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'UA-123587654-1');
+</script>
+</head>
+</html>
 Download [PDF version](https://drive.google.com/file/d/1n_YPXe96j4EHr-0MB0YXS9ax3D0xKi3h/preview).
 
 # Yuhao LI / 李愚昊 

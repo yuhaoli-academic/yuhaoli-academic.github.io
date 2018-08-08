@@ -4,7 +4,19 @@ permalink: /research/
 title: Research
 
 ---
+<html>
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123587654-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'UA-123587654-1');
+</script>
+</head>
+</html>
 ### Job Market Paper
 
 * Strategic Behaviour in Work Absence: A Dynamic View
