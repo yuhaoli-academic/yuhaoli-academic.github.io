@@ -18,14 +18,15 @@ $grey-vdark: #222;
 $blue:       #0091ed;
 $orange:     #ca6c18;
 $red:        #b6321c;
-$zhihu_blue: #2F92FC
+$zhihu_blue: #2F92FC;
+$bilibili_blue: #4FB9E6;
 
 $background:        $grey-vlight;
 $dark-background:   darken($background, 5%);
 $text-color:        $grey-vdark;
 $text-light-color:  $grey;
 $url-color:         $zhihu_blue;
-$url-hover-color:   $orange;
+$url-hover-color:   $bilibili_blue;
 $header-text-color: $text-light-color;
 $header-hover-color:$text-color;
 $header-hover-url:  $url-color;
