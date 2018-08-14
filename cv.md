@@ -60,8 +60,10 @@ WEB: [https://yuhaoli-academic.github.io/](https://yuhaoli-academic.github.io/)
 
 <li> TA for International Trade (undergraduate level), Universidad Carlos III de Madrid, Spain, Fall 2014 </li></ul></font>
 
-## Conference
+## Conference & Seminar
 <font size = "3.0"> <ul>
+<li> ENTER Seminar (scheduled), Mannheim, Nov, 2018 </li>
+
 <li> IAAE Montreal, June, 2018 </li>
 
 <li> EEA-ESEM Lisbon, Aug, 2017 </li>
