@@ -80,9 +80,9 @@ WEB: [https://yuhaoli-academic.github.io/](https://yuhaoli-academic.github.io/)
 
 <li>Pre-Doctor
 <ul>
-<li><p>The XXVII IUSSP International Population Conference, Busan, Republic of Korean, 2013</p></li>
+<li>he XXVII IUSSP International Population Conference, Busan, Republic of Korean, 2013</li>
 
-<li><p>The ENRSP International Conference <i>Old Age Crisis and Pension Reform - Where do we stand ?</i> ,Poznan,Poland. 2012</p></li></ul></li>
+<li>The ENRSP International Conference <i>Old Age Crisis and Pension Reform - Where do we stand ?</i> ,Poznan,Poland. 2012</li></ul></li>
 </ul></font>
 
 ## Scholarship & Honor 
