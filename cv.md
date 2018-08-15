@@ -61,23 +61,33 @@ WEB: [https://yuhaoli-academic.github.io/](https://yuhaoli-academic.github.io/)
 <li> TA for International Trade (undergraduate level), Universidad Carlos III de Madrid, Spain, Fall 2014 </li></ul></font>
 
 ## Conference & Seminar
-* 2018
-  - *Conference*: IAAE Montreal
-  - *Seminar*: UC3M Ph.D. Workshop, LSE-Cambridge-UC3M Econometrics Ph.D. Students Workshop (scheduled), ENTER Seminar Mannheim (scheduled)
+<font size = "3.0"><ul>
+<li><p>2018</p>
 
+<ul>
+<li><em>Conference</em>: IAAE Montreal</li>
 
-* 2017
-  - *Conference*: EEA-ESEM Lisbon
-  - *Seminar*: UC3M Ph.D. Workshop
+<li><em>Seminar</em>: UC3M Ph.D. Workshop, LSE-Cambridge-UC3M Econometrics Ph.D. Students Workshop (scheduled), ENTER Seminar Mannheim (scheduled)</li></ul></li>
 
-* 2016
-  - *Seminar*: UC3M Ph.D. Workshop, ENTER Jamboree Madrid (as discussant)
-  
+<li><p>2017</p>
 
-* Pre-Doctor
-  - The XXVII IUSSP International Population Conference, Busan, Republic of Korean, 2013
+<ul>
+<li><em>Conference</em>: EEA-ESEM Lisbon</li>
 
-  - The ENRSP International Conference *Old Age Crisis and Pension Reform - Where do we stand ?* ,Poznan,Poland. 2012
+<li><em>Seminar</em>: UC3M Ph.D. Workshop</li></ul></li>
+
+<li><p>2016</p>
+
+<ul>
+<li><em>Seminar</em>: UC3M Ph.D. Workshop, ENTER Jamboree Madrid (as discussant)</li></ul></li>
+
+<li><p>Pre-Doctor</p>
+
+<ul>
+<li><p>The XXVII IUSSP International Population Conference, Busan, Republic of Korean, 2013</p></li>
+
+<li><p>The ENRSP International Conference <em>Old Age Crisis and Pension Reform - Where do we stand ?</em> ,Poznan,Poland. 2012</p></li></ul></li>
+</ul></font>
 
 ## Scholarship & Honor 
 <font size = "3.0"> <ul>
