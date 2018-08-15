@@ -63,26 +63,22 @@ WEB: [https://yuhaoli-academic.github.io/](https://yuhaoli-academic.github.io/)
 ## Conference & Seminar
 <font size = "3.0"><ul>
 <li><p>2018</p>
-
 <ul>
 <li><em>Conference</em>: IAAE Montreal</li>
 
 <li><em>Seminar</em>: UC3M Ph.D. Workshop, LSE-Cambridge-UC3M Econometrics Ph.D. Students Workshop (scheduled), ENTER Seminar Mannheim (scheduled)</li></ul></li>
 
 <li><p>2017</p>
-
 <ul>
 <li><em>Conference</em>: EEA-ESEM Lisbon</li>
 
 <li><em>Seminar</em>: UC3M Ph.D. Workshop</li></ul></li>
 
 <li><p>2016</p>
-
 <ul>
 <li><em>Seminar</em>: UC3M Ph.D. Workshop, ENTER Jamboree Madrid (as discussant)</li></ul></li>
 
 <li><p>Pre-Doctor</p>
-
 <ul>
 <li><p>The XXVII IUSSP International Population Conference, Busan, Republic of Korean, 2013</p></li>
 
