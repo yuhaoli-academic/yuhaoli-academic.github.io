@@ -45,17 +45,23 @@ WEB: [https://yuhaoli-academic.github.io/](https://yuhaoli-academic.github.io/)
 * TA for International Trade (undergraduate level), Universidad Carlos III de Madrid, Spain, Fall 2014
 
 ## Conference & Seminar
-* ENTER Seminar (scheduled), Mannheim, Nov, 2018
+* 2018
+  - *Conference*: IAAE Montreal
+  - *Seminar*: UC3M Ph.D. Workshop, LSE-Cambridge-UC3M Econometrics Ph.D. Students Workshop (scheduled), ENTER Seminar Mannheim (scheduled)
 
-* IAAE Montreal, June, 2018
 
-* EEA-ESEM Lisbon, Aug, 2017
+* 2017
+  - *Conference*: EEA-ESEM Lisbon
+  - *Seminar*: UC3M Ph.D. Workshop
 
-* ENTER Jamboree (as discussant), Apr, 2016
+* 2016
+  - *Seminar*: UC3M Ph.D. Workshop, ENTER Jamboree Madrid (as discussant)
+  
 
-* The XXVII IUSSP International Population Conference, Busan, Republic of Korean, 2013
+* Pre-Doctor
+  - The XXVII IUSSP International Population Conference, Busan, Republic of Korean, 2013
 
-* The ENRSP International Conference *Old Age Crisis and Pension Reform - Where do we stand ?* ,Poznan,Poland. 2012
+  - The ENRSP International Conference *Old Age Crisis and Pension Reform - Where do we stand ?* ,Poznan,Poland. 2012
 
 ## Scholarship & Honor 
 * Champion, Econometric Game 2018 Edition, Amsterdam, Apr,2018

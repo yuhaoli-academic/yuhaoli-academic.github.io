@@ -62,17 +62,28 @@ WEB: [https://yuhaoli-academic.github.io/](https://yuhaoli-academic.github.io/)
 
 ## Conference & Seminar
 <font size = "3.0"> <ul>
-<li> ENTER Seminar (scheduled), Mannheim, Nov, 2018 </li>
+<li> 2018:
+<ul> <i>Conference</i>: IAAE Montreal </ul>
+<ul> <i> Seminar </i>: UC3M Ph.D. Workshop, LSE-Cambridge-UC3M Econometrics Ph.D. Students Workshop (scheduled) ,ENTER Seminar (scheduled) </ul>
 
-<li> IAAE Montreal, June, 2018 </li>
+<li> 2017:
+<ul> <i> Conference </i> : EEA-ESEM Lisbon</ul> 
+<ul> <i> Seminar </i> : UC3M Ph.D. Workshop </ul>
+</li>
 
-<li> EEA-ESEM Lisbon, Aug, 2017 </li>
+<li> 2016:
+<ul>
+<i> Seminar </i> :ENTER Jamboree (as discussant), UC3M Ph.D. Workshop </ul>
+ </li>
 
-<li> ENTER Jamboree (as discussant), Apr, 2016 </li>
-
+<li> Pre-Doctor  </li>
+<ul>
 <li> The XXVII IUSSP International Population Conference, Busan, Republic of Korean, 2013 </li>
 
-<li> The ENRSP International Conference *Old Age Crisis and Pension Reform - Where do we stand ?* ,Poznan,Poland. 2012 </li></ul></font>
+<li> The ENRSP International Conference *Old Age Crisis and Pension Reform - Where do we stand ?* ,Poznan,Poland. 2012 </li>
+</ul>
+
+</ul></font>
 
 ## Scholarship & Honor 
 <font size = "3.0"> <ul>
