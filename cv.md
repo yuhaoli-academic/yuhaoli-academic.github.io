@@ -61,7 +61,7 @@ WEB: [https://yuhaoli-academic.github.io/](https://yuhaoli-academic.github.io/)
 <li> TA for International Trade (undergraduate level), Universidad Carlos III de Madrid, Spain, Fall 2014 </li></ul></font>
 
 ## Conference & Seminar
-<font size = "3.0"> <ul>
+<font size = "3.0"> 
 <li> 2018:
 <ul> <i>Conference</i>: IAAE Montreal </ul>
 <ul> <i> Seminar </i>: UC3M Ph.D. Workshop, LSE-Cambridge-UC3M Econometrics Ph.D. Students Workshop (scheduled) ,ENTER Seminar (scheduled) </ul>
@@ -81,8 +81,6 @@ WEB: [https://yuhaoli-academic.github.io/](https://yuhaoli-academic.github.io/)
 <li> The XXVII IUSSP International Population Conference, Busan, Republic of Korean, 2013 </li>
 
 <li> The ENRSP International Conference *Old Age Crisis and Pension Reform - Where do we stand ?* ,Poznan,Poland. 2012 </li>
-</ul>
-
 </ul></font>
 
 ## Scholarship & Honor 
