@@ -20,7 +20,7 @@ permalink: /
 Hi! Welcome to my website. I am a Ph.D. candidate in economics at [Universidad Carlos III de Madrid (UC3M)](http://economics.uc3m.es/). My interest area lies in econometrics.
 At this moment, I am applying point process to Labour and Health Economics.   
 
-I will be on the job market and available for interviews at the 2018 EEA-ESWM European Job Market in Naples, the 2018 SAEe in Madrid and the 2019 AEA-ASSA Annual Meeting in Atlanta.
+I am on the job market and will be available for interviews at the 2018 EEA-ESWM European Job Market in Naples, the 2018 SAEe in Madrid and the 2019 AEA-ASSA Annual Meeting in Atlanta.
 
 ## Contact
 
