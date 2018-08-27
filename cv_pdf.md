@@ -27,7 +27,7 @@ WEB: [https://yuhaoli-academic.github.io/](https://yuhaoli-academic.github.io/)
 
 ## Research
 
-* _The Strategic Behaviour in Work Absence: A Dynamic View_
+* _The Strategic Behaviour in Work Absence: A Dynamic View_ (Job Market Paper)
   > Most of the literature that study work absenteeism assume absences are i.i.d. This assumption, however, is incompatible with work discipline regulations used in most firms. These regulations specify one's work absence benefit by personal absence history. Individuals then may strategically make absence decisions based on her own past experiences. In this paper, we use self-exciting processes to model and analysis the strategic behaviours of generic work absences that might be influenced by these regulations. A self-exciting process is state dependent. This fact enables us to include one's historical information into the model. We construct models for both incidence ('asking for absence') and recovery ('returning to work') decisions. We also distinguish the short-term and long-term absences. Using a firm-level absence data, we find that workers do consider their history when they ask for and return from the short-term absences. While in the long-term absences, workers do not concern their absence history. 
 
 * _The Cost-Sharing, Shadow Price and Cluster in Medical Care Utilization: A Self-Exciting Perspective_
