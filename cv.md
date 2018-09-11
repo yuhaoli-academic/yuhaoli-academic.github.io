@@ -66,7 +66,7 @@ WEB: [https://yuhaoli-academic.github.io/](https://yuhaoli-academic.github.io/)
 <ul>
 <li><i>Conference:</i>  IAAE Montreal</li>
 
-<li><i>Seminar:</i>  UC3M Ph.D. Workshop, LSE-Cambridge-UC3M Econometrics Ph.D. Students Workshop (scheduled), ENTER Seminar Mannheim (scheduled)</li></ul></li>
+<li><i>Seminar:</i>  UC3M Ph.D. Workshop, LSE-Cambridge-UC3M Econometrics Ph.D. Students Workshop, ENTER Seminar Mannheim (scheduled)</li></ul></li>
 
 <li>2017
 <ul>

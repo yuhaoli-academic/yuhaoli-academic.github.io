@@ -50,7 +50,7 @@ This Version: Aug, 2018
 ## Conference & Seminar
 * 2018
   - *Conference*: IAAE Montreal
-  - *Seminar*: UC3M Ph.D. Workshop, LSE-Cambridge-UC3M Econometrics Ph.D. Students Workshop (scheduled), ENTER Seminar Mannheim (scheduled)
+  - *Seminar*: UC3M Ph.D. Workshop, LSE-Cambridge-UC3M Econometrics Ph.D. Students Workshop, ENTER Seminar Mannheim (scheduled)
 
 
 * 2017
