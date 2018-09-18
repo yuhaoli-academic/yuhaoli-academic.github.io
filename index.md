@@ -22,7 +22,7 @@ At this moment, I am applying point process to Labour and Health Economics.
 
 I am on the job market and will be available for interviews at the 2018 EEA-ESWM European Job Market in Naples, the 2018 SAEe in Madrid and the 2019 AEA-ASSA Annual Meeting in Atlanta.
 
-## Reference
+### Reference
 
 <style>
 .ref {
@@ -38,22 +38,34 @@ I am on the job market and will be available for interviews at the 2018 EEA-ESWM
     text-align: left;
     padding: 5px;
 }
+
+.contact {
+    list-style-type: none;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.contact li {
+    display: inline-block;
+    text-align: left;
+}
 </style>
 
 <ul class="ref">
-  <li> Miguel Delgado <br/> Professor of Economics <br/> Universidad Carlos III de Madrid </li>
-  <li>Carlos Velasco <br/> Professor of Economics <br/> Universidad Carlos III de Madrid</li> <br/>
-  <li>Juan Carlos Escanciano <br/> Professor of Economics <br/> Universidad Carlos III de Madrid</li> 
+  <li> <a href="http://economics.uc3m.es/personal/miguel-angel-delgado/">Miguel A. Delgado</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:delgado@est-econ.uc3m.es">delgado@est-econ.uc3m.es</a> </li>
+  <li><a href="http://economics.uc3m.es/personal/carlos-velasco/">Carlos Velasco</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:carlos.velasco@uc3m.es">carlos.velasco@uc3m.es</a> </li> <br/>
+  <li><a href="http://economics.uc3m.es/personal/juan-carlos-escanciano/">Juan Carlos Escanciano</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:jescanci@eco.uc3m.es">jescanci@eco.uc3m.es</a></li> 
 </ul>
 
-## Contact
+### Contact
+<ul class="contact">
+  <li> Departamento de Economía <br/> Universidad Carlos III de Madrid <br /> Calle Madrid 126 28903 <br /> Getafe (Spain) <br /> Email: <a href="mailto:yuli@eco.uc3m.es">yuli@eco.uc3m.es</a> </li>
+  <li> <img src="https://78.media.tumblr.com/28a92b253dfca9ba2c9b846f17dc9405/tumblr_p9eh6zqwAQ1xuk2jbo1_500.png" /> </li>
+</ul>
 
-Departamento de Economía <br />
-Universidad Carlos III de Madrid <br />
-Calle Madrid 126 28903 <br />
-Getafe (Spain) <br />
-Email: [yuli@eco.uc3m.es](mailto:yuli@eco.uc3m.es)
 
-<img src="https://78.media.tumblr.com/28a92b253dfca9ba2c9b846f17dc9405/tumblr_p9eh6zqwAQ1xuk2jbo1_500.png" />
+
 
 
