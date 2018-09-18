@@ -10,9 +10,35 @@ EMAIL: [yuli@eco.uc3m.es](mailto:yuli@eco.uc3m.es)
 
 WEB: [https://yuhaoli-academic.github.io/](https://yuhaoli-academic.github.io/)
 
-This Version: Aug, 2018
+This Version: Sept, 2018
 
-## Education
+### Reference
+
+<style>
+.ref {
+    list-style-type: none;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.ref li {
+    display: inline-block;
+    text-align: left;
+    padding: 7px;
+}
+
+</style>
+
+<ul class="ref">
+  <li> <a href="http://economics.uc3m.es/personal/miguel-angel-delgado/">Miguel A. Delgado (Advisor)</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:delgado@est-econ.uc3m.es">delgado@est-econ.uc3m.es</a> </li>
+  <li><a href="http://economics.uc3m.es/personal/carlos-velasco/">Carlos Velasco</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:carlos.velasco@uc3m.es">carlos.velasco@uc3m.es</a> </li> 
+  <li><a href="http://economics.uc3m.es/personal/juan-carlos-escanciano/">Juan Carlos Escanciano</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:jescanci@eco.uc3m.es">jescanci@eco.uc3m.es</a></li> 
+</ul>
+
+
+### Education
 
 * Ph.D in Economics, Universidad Carlos III de Madrid, Spain, 2015-
 
@@ -22,11 +48,11 @@ This Version: Aug, 2018
 
 * BSc in Economics, Southwestern University of Finance and Economics, China, 2008-2012
 
-## Research interests
+### Research interests
 
 * Micro-econometrics, Point Process, Duration Analysis
 
-## Research
+### Research
 
 * _The Strategic Behaviour in Work Absence: A Dynamic View_ (Job Market Paper)
   > Most of the literature that study work absenteeism assume absences are i.i.d. This assumption, however, is incompatible with work discipline regulations used in most firms. These regulations specify one's work absence benefit by personal absence history, where individuals may strategically make absence decisions based on her own past experiences. In this paper, we use self-exciting processes to model and analysis the strategic behaviour of generic work absences that might be influenced by these regulations. Because a self-exciting process is state dependent, it enables researchers to include one's historical information into the model. We construct models for both incidence ('asking for absence') and recovery ('returning to work')  decisions. We also distinguish the short-term and long-term absences. Using a firm-level absence data, we find that workers do consider their history when they ask for and return from the short-term absences. While in the long-term absences, workers do not concern their absence history. 
@@ -37,7 +63,7 @@ This Version: Aug, 2018
 
 
 
-## Academic & Teaching Experience
+### Academic & Teaching Experience
 
 * TA for Economics of European Integration (undergraduate level), Universidad Carlos III de Madrid, Spain,2017-2018
 
@@ -47,7 +73,7 @@ This Version: Aug, 2018
 
 * TA for International Trade (undergraduate level), Universidad Carlos III de Madrid, Spain, Fall 2014
 
-## Conference & Seminar
+### Conference & Seminar
 * 2018
   - *Conference*: IAAE Montreal
   - *Seminar*: UC3M Ph.D. Workshop, LSE-Cambridge-UC3M Econometrics Ph.D. Students Workshop, ENTER Seminar Mannheim (scheduled)
@@ -66,17 +92,17 @@ This Version: Aug, 2018
 
   - The ENRSP International Conference *Old Age Crisis and Pension Reform - Where do we stand ?* ,Poznan,Poland. 2012
 
-## Scholarship & Honor 
+### Scholarship & Honor 
 * Champion, Econometric Game 2018 Edition, Amsterdam, Apr,2018
 
 * Spanish FPI scholarship, Spain, 2015-2019
 
 * Graduate Program Scholarship, UC3M, Spain, 2014-2015
 
-## Computer Skills
+### Computer Skills
 
 * Python, R, Matlab, Linux Shell
 
-## Language
+### Language
 
 * Chinese(native), English(fluent)
