@@ -12,7 +12,7 @@ WEB: [https://yuhaoli-academic.github.io/](https://yuhaoli-academic.github.io/)
 
 This Version: Sept, 2018
 
-### Reference
+### References
 
 <style>
 .ref {
@@ -32,7 +32,7 @@ This Version: Sept, 2018
 </style>
 
 <ul class="ref">
-  <li> <a href="http://economics.uc3m.es/personal/miguel-angel-delgado/">Miguel A. Delgado (Advisor)</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:delgado@est-econ.uc3m.es">delgado@est-econ.uc3m.es</a> </li>
+  <li> <a href="http://economics.uc3m.es/personal/miguel-angel-delgado/">Miguel A. Delgado (Supervisor)</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:delgado@est-econ.uc3m.es">delgado@est-econ.uc3m.es</a> </li>
   <li><a href="http://economics.uc3m.es/personal/carlos-velasco/">Carlos Velasco</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:carlos.velasco@uc3m.es">carlos.velasco@uc3m.es</a> </li> 
   <li><a href="http://economics.uc3m.es/personal/juan-carlos-escanciano/">Juan Carlos Escanciano</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:jescanci@eco.uc3m.es">jescanci@eco.uc3m.es</a></li> 
 </ul>
