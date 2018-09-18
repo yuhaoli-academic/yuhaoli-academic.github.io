@@ -22,19 +22,18 @@ At this moment, I am applying point process to Labour and Health Economics.
 
 I am on the job market and will be available for interviews at the 2018 EEA-ESWM European Job Market in Naples, the 2018 SAEe in Madrid and the 2019 AEA-ASSA Annual Meeting in Atlanta.
 
-## Reference
-**Miguel Delgado (Advisor)**    &emsp; &emsp; &emsp; **Carlos Velasco**                         
-Professor of Economics,         &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&ensp;Professor of Economics,                  
-Department of Economics         &emsp; &emsp; &emsp; &emsp;&emsp;&nbsp; Department of Economics                  
-Universidad Carlos III de Madrid &emsp; &ensp;  &ensp;&nbsp; Universidad Carlos III de Madrid         
-Email: [delgado@est-econ.uc3m.es](mailto:delgado@est-econ.uc3m.es)   &emsp; &ensp; &nbsp; Email: [carlos.velasco@uc3m.es](mailto:carlos.velasco@uc3m.es)  
+<h2 id="reference">Reference</h2>
+<p><strong>Miguel Delgado (Advisor)</strong>               <strong>Carlos Velasco</strong>                       <br />
+Professor of Economics,                   Professor of Economics,                <br />
+Department of Economics                   Department of Economics                <br />
+Universidad Carlos III de Madrid          Universidad Carlos III de Madrid       <br />
+Email: <a href="mailto:delgado@est-econ.uc3m.es">delgado@est-econ.uc3m.es</a>         Email: <a href="mailto:carlos.velasco@uc3m.es">carlos.velasco@uc3m.es</a></p>
 
-
-**Juan Carlos Escanciano**
-Professor of Economics,                                 
-Department of Economics                                 
-Universidad Carlos III de Madrid                        
-Email: [jescanci@eco.uc3m.es](mailto:jescanci@eco.uc3m.es) 
+<p><strong>Juan Carlos Escanciano</strong>
+Professor of Economics,                               <br />
+Department of Economics                               <br />
+Universidad Carlos III de Madrid                      <br />
+Email: <a href="mailto:jescanci@eco.uc3m.es">jescanci@eco.uc3m.es</a></p> 
 
 
 ## Contact
