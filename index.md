@@ -30,7 +30,7 @@ Universidad Carlos III de Madrid &emsp; &ensp;  &ensp;&nbsp; Universidad Carlos 
 Email: [delgado@est-econ.uc3m.es](mailto:delgado@est-econ.uc3m.es)   &emsp; &ensp; &nbsp; Email: [carlos.velasco@uc3m.es](mailto:carlos.velasco@uc3m.es)  
 
 
-**Juan Carlos Escanciano**
+**Juan Carlos Escanciano**<br />
 Professor of Economics,                                 
 Department of Economics                                 
 Universidad Carlos III de Madrid                        
