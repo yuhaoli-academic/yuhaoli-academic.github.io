@@ -23,6 +23,28 @@ At this moment, I am applying point process to Labour and Health Economics.
 I am on the job market and will be available for interviews at the 2018 EEA-ESWM European Job Market in Naples, the 2018 SAEe in Madrid and the 2019 AEA-ASSA Annual Meeting in Atlanta.
 
 
+<style>
+.ref {
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.ref li {
+    display: inline-block;
+    text-align: left;
+    padding: 5px;
+}
+</style>
+
+<ul class="ref">
+  <li> Miguel Delgado <br/> Professor of Economics <br/> Universidad Carlos III de Madrid </li>
+  <li>Carlos Velasco <br/> Professor of Economics <br/> Universidad Carlos III de Madrid</li> <br/>
+  <li>Juan Carlos Escanciano <br/> Professor of Economics <br/> Universidad Carlos III de Madrid</li> 
+</ul>
+
 ## Contact
 
 Departamento de Economía <br />
