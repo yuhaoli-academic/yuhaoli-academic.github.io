@@ -36,7 +36,7 @@ I am on the job market and will be available for interviews at the 2018 EEA-ESWM
 .ref li {
     display: inline-block;
     text-align: left;
-    padding: 5px;
+    padding: 7px;
 }
 
 .contact {
@@ -50,6 +50,7 @@ I am on the job market and will be available for interviews at the 2018 EEA-ESWM
 .contact li {
     display: inline-block;
     text-align: left;
+    padding: 15px;
 }
 </style>
 
