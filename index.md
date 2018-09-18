@@ -26,7 +26,7 @@ I am on the job market and will be available for interviews at the 2018 EEA-ESWM
 <style>
 .ref {
     list-style-type: none;
-    text-align: center;
+    text-align: left;
     margin: 0;
     padding: 0;
     
