@@ -24,10 +24,10 @@ I am on the job market and will be available for interviews at the 2018 EEA-ESWM
 
 ## Reference
 ### Miguel Delgado (Advisor)    &emsp; &emsp; &emsp; Carlos Velasco                         
-Professor of Economics,         &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&nbsp;Professor of Economics,                  
-Department of Economics         &emsp; &emsp; &emsp; &emsp;&emsp; Department of Economics                  
-Universidad Carlos III de Madrid &emsp; &ensp;  &ensp; Universidad Carlos III de Madrid         
-Email: [delgado@est-econ.uc3m.es](mailto:delgado@est-econ.uc3m.es)   &emsp; &ensp;  Email: [carlos.velasco@uc3m.es](mailto:carlos.velasco@uc3m.es)  
+Professor of Economics,         &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&ensp;Professor of Economics,                  
+Department of Economics         &emsp; &emsp; &emsp; &emsp;&emsp;&nbsp; Department of Economics                  
+Universidad Carlos III de Madrid &emsp; &ensp;  &ensp;&nbsp; Universidad Carlos III de Madrid         
+Email: [delgado@est-econ.uc3m.es](mailto:delgado@est-econ.uc3m.es)   &emsp; &ensp; &ensp; Email: [carlos.velasco@uc3m.es](mailto:carlos.velasco@uc3m.es)  
 
 
 ### Juan Carlos Escanciano
