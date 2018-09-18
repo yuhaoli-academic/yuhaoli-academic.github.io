@@ -24,8 +24,9 @@ I am on the job market and will be available for interviews at the 2018 EEA-ESWM
 
 <style type="text/css">
       div {
+      
       display: inline-block;
-      padding: 5px;
+
       }
 </style>
 
