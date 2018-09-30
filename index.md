@@ -63,11 +63,9 @@ I am on the job market and will be available for interviews at the 2018 EEA-ESWM
 
 ### Contact
 {% include image.html url="https://78.media.tumblr.com/28a92b253dfca9ba2c9b846f17dc9405/tumblr_p9eh6zqwAQ1xuk2jbo1_500.png" caption="" max_width="500px" align="right" %}
- Departamento de Economía
- Universidad Carlos III de Madrid
- Calle Madrid 126 28903
- Getafe (Spain)
- Email: <a href="mailto:yuli@eco.uc3m.es">yuli@eco.uc3m.es</a>
+<ul class="contact">
+  <li> Departamento de Economía <br/> Universidad Carlos III de Madrid <br /> Calle Madrid 126 28903 <br /> Getafe (Spain) <br /> Email: <a href="mailto:yuli@eco.uc3m.es">yuli@eco.uc3m.es</a> </li>
+</ul>
 
 
 
