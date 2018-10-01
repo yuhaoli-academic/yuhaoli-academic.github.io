@@ -17,7 +17,7 @@ permalink: /
 </head>
 </html>
 {% include image.html url="images/YuhaoLI_compressed.jpg" caption="" max_width="300px" align="right" %}
-Hi! Welcome to my website. I am a Ph.D. candidate in economics at [Universidad Carlos III de Madrid (UC3M)](http://economics.uc3m.es/). My research interest lies in econometrics.
+Hi! Welcome to my website. I am a Ph.D. candidate in economics at <a href="http://economics.uc3m.es/" target="_blank">Universidad Carlos III de Madrid</a>. My research interest lies in econometrics.
 At this moment, I am applying point process to Labour and Health Economics.   
 
 I am on the job market and will be available for interviews at the 2018 EEA-ESWM European Job Market in Naples, the 2018 SAEe in Madrid and the 2019 AEA-ASSA Annual Meeting in Atlanta.
@@ -56,9 +56,9 @@ I am on the job market and will be available for interviews at the 2018 EEA-ESWM
 </style>
 
 <ul class="ref">
-  <li> <a href="http://economics.uc3m.es/personal/miguel-angel-delgado/">Miguel A. Delgado (Supervisor)</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:delgado@est-econ.uc3m.es">delgado@est-econ.uc3m.es</a> </li>
-  <li><a href="http://economics.uc3m.es/personal/carlos-velasco/">Carlos Velasco</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:carlos.velasco@uc3m.es">carlos.velasco@uc3m.es</a> </li> <br/>
-  <li><a href="http://economics.uc3m.es/personal/juan-carlos-escanciano/">Juan Carlos Escanciano</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:jescanci@eco.uc3m.es">jescanci@eco.uc3m.es</a></li> 
+  <li> <a href="http://economics.uc3m.es/personal/miguel-angel-delgado/" target="_blank">Miguel A. Delgado (Supervisor)</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:delgado@est-econ.uc3m.es">delgado@est-econ.uc3m.es</a> </li>
+  <li><a href="http://economics.uc3m.es/personal/carlos-velasco/" target="_blank">Carlos Velasco</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:carlos.velasco@uc3m.es">carlos.velasco@uc3m.es</a> </li> <br/>
+  <li><a href="http://economics.uc3m.es/personal/juan-carlos-escanciano/" target="_blank">Juan Carlos Escanciano</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:jescanci@eco.uc3m.es">jescanci@eco.uc3m.es</a></li> 
 </ul>
 
 ### Contact
