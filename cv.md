@@ -17,7 +17,8 @@ permalink: /cv/
 </script>
 </head>
 </html>
-Download [PDF version](https://yuhaoli-academic.github.io/cv_download.pdf).
+Download <a href="https://yuhaoli-academic.github.io/cv_download.pdf" target="_blank"> PDF Version </a>
+
 
 ## Yuhao LI / 李愚昊 
 PhD candidate in Economics, Universidad Carlos III de Madrid  
