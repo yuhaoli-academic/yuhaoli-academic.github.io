@@ -19,21 +19,6 @@ permalink: /cv/
 </html>
 Download <a href="https://yuhaoli-academic.github.io/cv_download.pdf" target="_blank"> PDF Version </a>
 
-
-## Yuhao LI / 李愚昊 
-PhD candidate in Economics, Universidad Carlos III de Madrid  
-ADDRESS: Calle Madrid 126,28903 Getafe (Madrid),Spain   
-PHONE: (+34) 693-695-020    
-EMAIL: [yuli@eco.uc3m.es](mailto:yuli@eco.uc3m.es)    
-WEB: [https://yuhaoli-academic.github.io/](https://yuhaoli-academic.github.io/) <br/>
-This Version: Sept, 2018
-
-
-Placement Director: <a href="http://economics.uc3m.es/personal/ignacio-ortuno-ortin/" target="_blank"> Ignacio Ortuño-Ortín (<a href="mailto:iortuno@eco.uc3m.es">iortuno@eco.uc3m.es</a>) </a> <br/>
-Placement Administrator: Arancha Alonso (<a href="aanieto@pa.uc3m.es">aanieto@pa.uc3m.es</a>)
-
-### References
-
 <style>
 .ref {
     list-style-type: none;
@@ -50,6 +35,26 @@ Placement Administrator: Arancha Alonso (<a href="aanieto@pa.uc3m.es">aanieto@pa
 }
 
 </style>
+
+## Yuhao LI / 李愚昊 
+PhD candidate in Economics, Universidad Carlos III de Madrid  
+ADDRESS: Calle Madrid 126,28903 Getafe (Madrid),Spain   
+PHONE: (+34) 693-695-020    
+EMAIL: [yuli@eco.uc3m.es](mailto:yuli@eco.uc3m.es)    
+WEB: [https://yuhaoli-academic.github.io/](https://yuhaoli-academic.github.io/) <br/>
+Attending the following Job Market Meetings:
+<ul class="ref">
+  <li> European Job Market, Naples </li>
+  <li> SAEe, Madrid </li> 
+  <li> ASSA, Atlanta</li> 
+</ul>
+This Version: October, 2018
+
+
+Placement Director: <a href="http://economics.uc3m.es/personal/ignacio-ortuno-ortin/" target="_blank"> Ignacio Ortuño-Ortín (<a href="mailto:iortuno@eco.uc3m.es">iortuno@eco.uc3m.es</a>) </a> <br/>
+Placement Administrator: Arancha Alonso (<a href="aanieto@pa.uc3m.es">aanieto@pa.uc3m.es</a>)
+
+### References
 
 <ul class="ref">
   <li> <a href="http://economics.uc3m.es/personal/miguel-angel-delgado/" target="_blank">Miguel A. Delgado (Supervisor)</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:delgado@est-econ.uc3m.es">delgado@est-econ.uc3m.es</a> </li>
