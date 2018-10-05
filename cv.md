@@ -43,11 +43,7 @@ PHONE: (+34) 693-695-020
 EMAIL: [yuli@eco.uc3m.es](mailto:yuli@eco.uc3m.es)    
 WEB: [https://yuhaoli-academic.github.io/](https://yuhaoli-academic.github.io/) <br/>
 Attending the following Job Market Meetings:
-<ul class="ref">
-  <li> European Job Market, Naples </li>
-  <li> SAEe, Madrid </li> 
-  <li> ASSA, Atlanta</li> 
-</ul>
+  European Job Market, Naples; SAEe, Madrid; ASSA, Atlanta
 This Version: October, 2018
 
 
