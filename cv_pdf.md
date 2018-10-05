@@ -28,13 +28,8 @@ EMAIL: [yuli@eco.uc3m.es](mailto:yuli@eco.uc3m.es)
 WEB: [https://yuhaoli-academic.github.io/](https://yuhaoli-academic.github.io/)
 
 Attending the following Job Market Meetings:
-<ul class="ref">
-  <li> European Job Market, Naples </li>
-  <li> SEAe, Madrid </li> 
-  <li> ASSA, Atlanta</li> 
-</ul>
+  European Job Market, Naples; SAEe, Madrid; ASSA, Atlanta
 
-This Version: October, 2018
 
 Placement Director: <a href="http://economics.uc3m.es/personal/ignacio-ortuno-ortin/"> Ignacio Ortuño-Ortín (<a href="mailto:iortuno@eco.uc3m.es">iortuno@eco.uc3m.es</a>) </a> <br/>
 Placement Administrator: Arancha Alonso (<a href="aanieto@pa.uc3m.es">aanieto@pa.uc3m.es</a>)
@@ -118,3 +113,5 @@ Placement Administrator: Arancha Alonso (<a href="aanieto@pa.uc3m.es">aanieto@pa
 ### Language
 
 * Chinese(native), English(fluent)
+
+<p align="right">This Version: October,2018</p>
