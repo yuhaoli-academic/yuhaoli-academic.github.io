@@ -11,7 +11,7 @@
 .ref li {
     display: inline-block;
     text-align: left;
-    padding: 7px;
+    padding: 5px;
 }
 
 </style>
