@@ -54,9 +54,9 @@ Placement Administrator: Arancha Alonso (<a href="aanieto@pa.uc3m.es">aanieto@pa
 ### References
 
 <ul class="ref">
-  <li> <a href="http://economics.uc3m.es/personal/miguel-angel-delgado/" target="_blank">Miguel A. Delgado (Supervisor)</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:delgado@est-econ.uc3m.es">delgado@est-econ.uc3m.es</a> </li>
-  <li><a href="http://economics.uc3m.es/personal/carlos-velasco/" target="_blank">Carlos Velasco</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:carlos.velasco@uc3m.es">carlos.velasco@uc3m.es</a> </li> 
-  <li><a href="http://economics.uc3m.es/personal/juan-carlos-escanciano/" target="_blank">Juan Carlos Escanciano</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:jescanci@eco.uc3m.es">jescanci@eco.uc3m.es</a></li> 
+  <li> <a href="http://economics.uc3m.es/personal/miguel-angel-delgado/" target="_blank">Miguel A. Delgado (Supervisor)</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:delgado@est-econ.uc3m.es">delgado@est-econ.uc3m.es</a> <br/> Phone: +34 91 624 9804</li>
+  <li><a href="http://economics.uc3m.es/personal/carlos-velasco/" target="_blank">Carlos Velasco</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:carlos.velasco@uc3m.es">carlos.velasco@uc3m.es</a> <br/> Phone: +34 91 624 9646 </li> 
+  <li><a href="http://economics.uc3m.es/personal/juan-carlos-escanciano/" target="_blank">Juan Carlos Escanciano</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:jescanci@eco.uc3m.es">jescanci@eco.uc3m.es</a> <br/> Phone: +34 91 624 6198</li> 
 </ul>
 
 ### Education
