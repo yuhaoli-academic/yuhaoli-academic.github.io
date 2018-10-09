@@ -72,7 +72,7 @@ I am on the job market and will be available for interviews at the 2018 European
 </dl>
 
 <ul class="contact">
-  <li> Departamento de Economía <br/> Universidad Carlos III de Madrid <br /> Calle Madrid 126 28903 <br /> Getafe (Spain) <br /> Email: <a href="mailto:yuli@eco.uc3m.es">yuli@eco.uc3m.es</a> </li>
+  <li> Departamento de Economía <br/> Universidad Carlos III de Madrid <br /> Calle Madrid 126 <br /> Getafe, 28903, Spain <br /> Email: <a href="mailto:yuli@eco.uc3m.es">yuli@eco.uc3m.es</a> </li>
 </ul>
 
 
