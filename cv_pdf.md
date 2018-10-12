@@ -78,8 +78,8 @@ Placement Administrator: Arancha Alonso (<a href="mailto:aanieto@pa.uc3m.es">aan
 
 ### Conference & Seminar
 * 2018
-  - *Conference*: IAAE Montreal
-  - *Seminar*: UC3M Ph.D. Workshop, LSE-Cambridge-UC3M Econometrics Ph.D. Students Workshop, ENTER Seminar Mannheim (scheduled)
+  - *Conference*: IAAE Montreal, ESWM Naples
+  - *Seminar*: UC3M Ph.D. Workshop, LSE-Cambridge-UC3M Econometrics Ph.D. Students Workshop, ENTER Seminar Mannheim 
 
 
 * 2017
