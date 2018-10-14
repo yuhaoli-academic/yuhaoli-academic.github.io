@@ -92,23 +92,23 @@ Placement Administrator: Arancha Alonso (<a href="aanieto@pa.uc3m.es">aanieto@pa
 
 <li> TA for International Trade (undergraduate level), Universidad Carlos III de Madrid, Spain, Fall 2014 </li></ul></font>
 
-### Conference & Seminar
+### Presentations   
 <font size = "3.0"><ul>
 <li>2018
 <ul>
-<li><i>Conference:</i>  IAAE Montreal, ESWM Naples</li>
+<li><i>Conferences:</i>  IAAE Montreal, ESWM Naples</li>
 
-<li><i>Seminar:</i>  UC3M Ph.D. Workshop, LSE-Cambridge-UC3M Econometrics Ph.D. Students Workshop, ENTER Seminar Mannheim </li></ul></li>
+<li><i>Seminars:</i>  UC3M Ph.D. Workshop, LSE-Cambridge-UC3M Econometrics Ph.D. Students Workshop, ENTER Seminar Mannheim </li></ul></li>
 
 <li>2017
 <ul>
-<li><i>Conference:</i> EEA-ESEM Lisbon</li>
+<li><i>Conferences:</i> EEA-ESEM Lisbon</li>
 
-<li><i>Seminar:</i> UC3M Ph.D. Workshop</li></ul></li>
+<li><i>Seminars:</i> UC3M Ph.D. Workshop</li></ul></li>
 
 <li>2016
 <ul>
-<li><i>Seminar:</i> UC3M Ph.D. Workshop, ENTER Jamboree Madrid (as discussant)</li></ul></li>
+<li><i>Seminars:</i> UC3M Ph.D. Workshop, ENTER Jamboree Madrid (as discussant)</li></ul></li>
 
 <li>Pre-Doctor
 <ul>
