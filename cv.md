@@ -71,7 +71,7 @@ Placement Administrator: Arancha Alonso (<a href="aanieto@pa.uc3m.es">aanieto@pa
 
 ### Research interests
 
-* Micro-econometrics, Point Process, Duration Analysis
+* Applied Microeconometrics, Point Process, Labor and Health Economics
 
 ### Research
 
