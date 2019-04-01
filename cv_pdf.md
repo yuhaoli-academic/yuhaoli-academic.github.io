@@ -63,6 +63,7 @@ Placement Administrator: Arancha Alonso (<a href="mailto:aanieto@pa.uc3m.es">aan
 * [_The Cost-Sharing, Shadow Price and Cluster in Medical Care Utilization: A Self-Exciting Perspective_](https://yuhaoli-academic.github.io/Health_Insurance_nonlinear.pdf)
 	> In this paper, a self-exciting counting process modelling method is proposed to study the frequency of medical care service utilization under a non-linear budget constraint health insurance policy. This modelling strategy enables researchers to investigate individual's dynamic behavior in a more detailed way. Specifically, for each individual, every doctor visiting record is represented as a point in a self-exciting counting process. Cost associated with such visiting is included in this counting process as a mark. A minimum distance method is employed to find the estimators. Using the Rand Health Insurance Experiment data, we find that individuals respond to a change of shadow price. In addition, we use a matured cluster analysis algorithm to investigate the cluster patterns and discover that compared to free plan, cost-sharing insurance plan with out-of-pocket fees suppress the use of medical services by limiting the number of clusters as well as follow-up visiting within each cluster.
 
+* _A Dynamic Analysis of Spanish Youth Job Turnover_ (with Miguel A. Delgado), _Working in process_
 
 
 
@@ -110,4 +111,4 @@ Placement Administrator: Arancha Alonso (<a href="mailto:aanieto@pa.uc3m.es">aan
 
 * Chinese(native), English(fluent)
 
-<p align="right">This Version: October,2018</p>
+<p align="right">This Version: December,2018</p>
