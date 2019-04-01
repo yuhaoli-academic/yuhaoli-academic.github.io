@@ -77,7 +77,7 @@ I am scheduled to defend my thesis in July and will join the <a href="http://ems
 ### Contact
 <dl class="captioned-img alignright" style="max-width:450px">
 
-<dt><a href="http://www.whu.edu.cn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/6/68/Wuhan_University_Logo.png" alt="" /></a></dt>
+<dt><a href="http://www.whu.edu.cn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/8/8f/Wuhan_University_logo_with_name.png" alt="" /></a></dt>
 
 
 <dd></dd>
