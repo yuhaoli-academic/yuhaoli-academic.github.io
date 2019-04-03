@@ -33,7 +33,7 @@ permalink: /
 Hi! Welcome to my website. I am a Ph.D. candidate in economics at <a href="http://economics.uc3m.es/" target="_blank">Universidad Carlos III de Madrid</a>. My research interest lies in applied econometrics.
 At this moment, I am using point process to study topics in Labour and Health Economics.   
 
-I am scheduled to defend my thesis in July and will join the <a href="http://ems.whu.edu.cn/EN/" target="_blank"> Economics and Management School of Wuhan University</a> as an Assistant Professor.
+I am scheduled to defend my thesis in July and will join the <a href="http://ems.whu.edu.cn/EN/" target="_blank"> School of Economics and Management, Wuhan University</a> as an Assistant Professor.
 <p> <br/> <br/> </p>
 
 ### References
@@ -75,9 +75,9 @@ I am scheduled to defend my thesis in July and will join the <a href="http://ems
 </ul>
 
 ### Contact
-<dl class="captioned-img alignright" style="max-width:450px">
+<dl class="captioned-img alignright" style="max-width:500px">
 
-<dt><a href="http://www.whu.edu.cn/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/8/8f/Wuhan_University_logo_with_name.png" alt="" /></a></dt>
+<dt><a href="http://www.whu.edu.cn/" target="_blank"><img src="http://www.whu.edu.cn/ch_template/img/logo.png" alt="" /></a></dt>
 
 
 <dd></dd>
