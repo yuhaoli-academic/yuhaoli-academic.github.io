@@ -109,12 +109,7 @@ Placement Administrator: Arancha Alonso (<a href="aanieto@pa.uc3m.es">aanieto@pa
 
 ### Presentations   
 <font size = "3.0"><ul>
-<li>2019
-<ul>
-<li><i>Conferences:</i>  IAAE Nicosia</li>
-</ul></li>
 
-<font size = "3.0"><ul>
 <li>2018
 <ul>
 <li><i>Conferences:</i>  IAAE Montreal, ESWM Naples, SAEe Madrid</li>
