@@ -112,7 +112,7 @@ Placement Administrator: Arancha Alonso (<a href="aanieto@pa.uc3m.es">aanieto@pa
 <li>2019
 <ul>
 <li><i>Conferences:</i>  IAAE Nicosia</li>
-</li>
+</ul></li>
 
 <font size = "3.0"><ul>
 <li>2018
