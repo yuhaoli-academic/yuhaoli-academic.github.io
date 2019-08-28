@@ -50,13 +50,12 @@ Download <a href="https://yuhaoli-academic.github.io/cv_download.pdf" target="_b
 </style>
 
 ## Yuhao LI / 李愚昊 
-PhD in Economics, Universidad Carlos III de Madrid  
-ADDRESS: Calle Madrid 126, Getafe (Madrid), 28903, Spain   
-PHONE: (+34) 693-695-020    
+Assistant Professor in Economics, Wuhan University
+ADDRESS: Bayi Rd, 299, Wuhan, 430070, China       
 EMAIL: [yuli@eco.uc3m.es](mailto:yuli@eco.uc3m.es)    
 WEB: [https://yuhaoli-academic.github.io/](https://yuhaoli-academic.github.io/) <br/>
   
-This Version: July, 2019
+This Version: September, 2019
 
 
 

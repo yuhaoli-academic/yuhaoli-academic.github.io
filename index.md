@@ -85,7 +85,7 @@ I will join the <a href="http://ems.whu.edu.cn/EN/" target="_blank"> School of E
 </dl>
 
 <ul class="contact">
-  <li> Departamento de Economía <br/> Universidad Carlos III de Madrid <br /> Calle Madrid 126 <br /> Getafe, 28903, Spain <br /> Email: <a href="mailto:yuli@eco.uc3m.es">yuli@eco.uc3m.es</a> </li>
+  <li> School of Economics and Management <br/> Wuhan University <br /> Bayi Rd, 299<br /> Wuhan, 430070, China <br /> Email: <a href="mailto:yuli@eco.uc3m.es">yuli@eco.uc3m.es</a> </li>
 </ul>
 
 

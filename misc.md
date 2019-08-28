@@ -57,7 +57,7 @@ permalink: /misc/
   </div>
   <div class="column">
     <img src="https://raw.githubusercontent.com/yuhaoli-academic/yuhaoli-academic.github.io/master/images/photo_compressed.jpeg" alt="" style="width:195">
-    <figcaption>Fig.2 Hominis, est. ChongQing,CN|c. Madrid,ES </figcaption>
+    <figcaption>Fig.2 Hominis, est. ChongQing,CN|c. Wuhan, CN</figcaption>
   </div>
   <div class="column">
     <img src="https://raw.githubusercontent.com/yuhaoli-academic/yuhaoli-academic.github.io/master/images/EG_mug.jpg" alt="" style="width:195">
