@@ -38,3 +38,5 @@ permalink: /teaching/
 * TA for Economics of European Integration (undergraduate level), Universidad Carlos III de Madrid, Spain, 2017-2018
 
 * TA for Microeconomics (undergraduate level), Universidad Carlos III de Madrid, Spain, 2018-2019
+
+* Instructor, Intermediate Econoemtrics (graduate level), Wuhan University, China, 2019-2020
