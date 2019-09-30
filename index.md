@@ -33,7 +33,7 @@ permalink: /
 Hi! Welcome to my website. I obtained my Ph.D. degree in economics from <a href="http://economics.uc3m.es/" target="_blank">Universidad Carlos III de Madrid</a>. My research interest lies in applied econometrics.
 At this moment, I am using point process to study topics in Labour and Health Economics.   
 
-I will join the <a href="http://ems.whu.edu.cn/EN/" target="_blank"> School of Economics and Management, Wuhan University</a> as an Assistant Professor.
+I have joined the <a href="http://ems.whu.edu.cn/EN/" target="_blank"> School of Economics and Management, Wuhan University</a> as an Assistant Professor in fall, 2019.
 <p> <br/> <br/> </p>
 
 ### References
