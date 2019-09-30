@@ -19,9 +19,9 @@
 # Yuhao LI / 李愚昊
 <a href="https://yuhaoli-academic.github.io/cv_download.pdf"> Latest Version Here </a> <br/>
 Assistant Professor in Economics, Wuhan University <br/>
-ADDRESS: Bayi Rd, 299, Wuhan, 430070, China <br/>  
+ADDRESS: Luojiashan, Wuchang, Wuhan, 430070, China <br/>  
 PHONE: (+34) 693-695-020 <br/>
-EMAIL: [yuli@eco.uc3m.es](mailto:yuli@eco.uc3m.es)<br/>
+EMAIL: [liyuhao.econ@whu.edu.cn](mailto:liyuhao.econ@whu.edu.cn)<br/>
 WEB: [https://yuhaoli-academic.github.io/](https://yuhaoli-academic.github.io/)<br/>
 
 
