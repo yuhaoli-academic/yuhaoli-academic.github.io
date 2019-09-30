@@ -85,7 +85,7 @@ I will join the <a href="http://ems.whu.edu.cn/EN/" target="_blank"> School of E
 </dl>
 
 <ul class="contact">
-  <li> School of Economics and Management <br/> Wuhan University <br /> Bayi Rd, 299<br /> Wuhan, 430070, China <br /> Email: <a href="mailto:yuli@eco.uc3m.es">yuli@eco.uc3m.es</a> </li>
+  <li> School of Economics and Management <br/> Wuhan University <br /> Luojiashan,  Wuchang<br /> Wuhan, 430070, China <br /> Email: <a href="mailto:liyuhao.econ@whu.edu.cn">liyuhao.econ@whu.edu.cn</a> </li>
 </ul>
 
 
