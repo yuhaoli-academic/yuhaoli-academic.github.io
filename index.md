@@ -85,7 +85,7 @@ I have joined the <a href="http://ems.whu.edu.cn/EN/" target="_blank"> School of
 </dl>
 
 <ul class="contact">
-  <li> School of Economics and Management <br/> Wuhan University <br /> Luojiashan,  Wuchang<br /> Wuhan, 430070, China <br /> Email: <a href="mailto:liyuhao.econ@whu.edu.cn">liyuhao.econ@whu.edu.cn</a>,<a href="mailto:liyuhao.econ@outlook.com">liyuhao.econ@outlook.comn</a>  </li>
+  <li> School of Economics and Management <br/> Wuhan University <br /> Luojiashan,  Wuchang<br /> Wuhan, 430070, China <br /> Email: <a href="mailto:liyuhao.econ@whu.edu.cn">liyuhao.econ@whu.edu.cn</a>,<a href="mailto:liyuhao.econ@outlook.com">liyuhao.econ@outlook.com</a>  </li>
 </ul>
 
 
