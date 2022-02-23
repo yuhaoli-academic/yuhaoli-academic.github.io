@@ -52,7 +52,7 @@ Download <a href="https://yuhaoli-academic.github.io/cv_download.pdf" target="_b
 ## Yuhao LI / 李愚昊 
 Assistant Professor in Economics, Wuhan University <br/>
 ADDRESS: Luojiashan, Wuchang, Wuhan, 430070, China       
-EMAIL: [liyuhao.econ@whu.edu.cn](mailto:liyuhao.econ@whu.edu.cn)    
+EMAIL: [liyuhao.econ@whu.edu.cn](mailto:liyuhao.econ@whu.edu.cn),[liyuhao.econ@outlook.com](mailto:liyuhao.econ@outlook.com)    
 WEB: [https://yuhaoli-academic.github.io/](https://yuhaoli-academic.github.io/) <br/>
   
 This Version: September, 2019
@@ -85,7 +85,7 @@ This Version: September, 2019
 
 * [_The Dynamic Behavior in Work Absence_](https://yuhaoli-academic.github.io/jmp.pdf)  (Job Market Paper)
 
-* [_The Cost-Sharing, Shadow Price and Cluster in Medical Care Utilization: A Self-Exciting Perspective_](https://yuhaoli-academic.github.io/Health_Insurance_nonlinear.pdf)
+* [_Assessing Individual's Response to the Nonlinear Health Insurance Plan: Evidence From A Hawkes Process Framework_](https://www.ssrn.com/abstract=3986884)
 
 * _A Dynamic Analysis of Spanish Youth Job Turnover_ (with Miguel A. Delgado), _Working in process_
 
