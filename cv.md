@@ -89,7 +89,7 @@ This Version: Nov, 2022
 
 * [_Modelling Dynamic Individual Outpatient Claims Using Hawkes Process,_](https://yuhaoli-academic.github.io/Health_Hawkes.pdf)
 
-* [_Goodness-of-Fit Tests for General Counting Processes_ (with Xiaojun Song and Rui Cui).](https://yuhaoli-academic.github.io/ounting_Proc_test.pdf)
+* [_Goodness-of-Fit Tests for General Counting Processes_ (with Xiaojun Song and Rui Cui).](https://yuhaoli-academic.github.io/Counting_Proc_test.pdf)
 
 * _A Dynamic Analysis of Spanish Youth Job Turnover_ (with Miguel A. Delgado), _Working in process_
 
