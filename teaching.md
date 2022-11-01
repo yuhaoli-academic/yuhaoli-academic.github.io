@@ -29,14 +29,8 @@ permalink: /teaching/
 
 </head>
 </html>
-* TA for International Trade (undergraduate level), Universidad Carlos III de Marid, Spain, Fall 2014
+* Intermediate Econometrics (Undergraduate), 2020, Wuhan University.
 
-* TA for Intermediate Microeconomics (undergraduate level), Universidad Carlos III de Madrid, Spain, 2014~2015
+* Intermediate Econometrics (Graduate), 2019, 2020, 2022, Wuhan University.
 
-* TA for Principle of Economics (undergraduate level), Universidad Carlos III de Madrid, Spain, 2015-2016, 2016-2017
-
-* TA for Economics of European Integration (undergraduate level), Universidad Carlos III de Madrid, Spain, 2017-2018
-
-* TA for Microeconomics (undergraduate level), Universidad Carlos III de Madrid, Spain, 2018-2019
-
-* Instructor, Intermediate Econoemtrics (graduate level), Wuhan University, China, 2019-2020
+* Advanced Econometrics (Undergraduate), 2020, 2021, 2022, Wuhan University.
