@@ -55,7 +55,7 @@ ADDRESS: Luojiashan, Wuchang, Wuhan, 430070, China
 EMAIL: [liyuhao.econ@whu.edu.cn](mailto:liyuhao.econ@whu.edu.cn),[liyuhao.econ@outlook.com](mailto:liyuhao.econ@outlook.com)    
 WEB: [https://yuhaoli-academic.github.io/](https://yuhaoli-academic.github.io/) <br/>
   
-This Version: September, 2019
+This Version: Nov, 2022
 
 
 
@@ -63,8 +63,8 @@ This Version: September, 2019
 
 <ul class="ref">
   <li> <a href="http://economics.uc3m.es/personal/miguel-angel-delgado/" target="_blank">Miguel A. Delgado (Supervisor)</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:delgado@est-econ.uc3m.es">delgado@est-econ.uc3m.es</a> <br/> Phone: +34 91 624 9804</li>
-  <li><a href="http://economics.uc3m.es/personal/carlos-velasco/" target="_blank">Carlos Velasco</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:carlos.velasco@uc3m.es">carlos.velasco@uc3m.es</a> <br/> Phone: +34 91 624 9646 </li> 
   <li><a href="http://economics.uc3m.es/personal/juan-carlos-escanciano/" target="_blank">Juan Carlos Escanciano</a> <br/> Professor of Economics <br/> Universidad Carlos III de Madrid <br/> Email: <a href="mailto:jescanci@eco.uc3m.es">jescanci@eco.uc3m.es</a> <br/> Phone: +34 91 624 6198</li> 
+   <li><a href="https://en.gsm.pku.edu.cn/faculty/sxj/" target="_blank">Xiaojun Song</a> <br/>Associate Professor of Economics <br/> Peking University <br/> Email: <a href="mailto:sxj@gsm.pku.edu.cn">sxj@gsm.pku.edu.cn</a> <br/> Phone: +86 10-62754839 </li> 
 </ul>
 
 ### Education
@@ -83,53 +83,26 @@ This Version: September, 2019
 
 ### Research
 
-* [_The Dynamic Behavior in Work Absence_](https://yuhaoli-academic.github.io/jmp.pdf)  (Job Market Paper)
+* [_Analyzing Dynamic Multiple Spell Durations using Counting Processes,_](https://yuhaoli-academic.github.io/JMP1.pdf) (Job Market Paper 1)
 
-* [_Assessing Individual's Response to the Nonlinear Health Insurance Plan: Evidence From A Hawkes Process Framework_](https://www.ssrn.com/abstract=3986884)
+* [_Consistent Test for Conditional Moment Restriction Models in Reproducing Kernel Hilbert Spaces_ (with Xiaojun Song), ](https://yuhaoli-academic.github.io/JMP2.pdf) (Job Market Paper 2) 
+
+* [_Modelling Dynamic Individual Outpatient Claims Using Hawkes Process,_](https://yuhaoli-academic.github.io/Health_Hawkes.pdf)
+
+* [_Goodness-of-Fit Tests for General Counting Processes_ (with Xiaojun Song and Rui Cui).](https://yuhaoli-academic.github.io/ounting_Proc_test.pdf)
 
 * _A Dynamic Analysis of Spanish Youth Job Turnover_ (with Miguel A. Delgado), _Working in process_
 
 
-### Academic & Teaching Experience
+### Teaching Experience
 <font size = "3.0"> <ul>
-<li> TA for Economics of European Integration (undergraduate level), Universidad Carlos III de Madrid, Spain,2017-2018 </li>
+<li> Intermediate Econometrics (Undergraduate), 2020, Wuhan University </li>
 
-<li> TA for Principle of Economics (undergraduate level), Universidad Carlos III de Madrid, Spain, 2015-2016, 2016-2017</li>
+<li> Intermediate Econometrics (Graduate), 2019, 2020, 2022, Wuhan University</li>
 
-<li> TA for Intermediate Microeconomics (undergraduate level), Universidad Carlos III de Madrid, Spain, 2014~2015</li>
-
-<li> TA for International Trade (undergraduate level), Universidad Carlos III de Madrid, Spain, Fall 2014 </li></ul></font>
-
-### Presentations   
-<font size = "3.0"><ul>
-<li>2019
-<ul>
-<li><i>Conferences:</i> IAAE Nicosia</li>
-</ul></li>
+<li> Advanced Econometrics (Undergraduate), 2020, 2021, 2022, Wuhan University</li>
 
 
-<li>2018
-<ul>
-<li><i>Conferences:</i>  IAAE Montreal, ESWM Naples, SAEe Madrid</li>
-
-<li><i>Seminars:</i>  UC3M Ph.D. Workshop, LSE-Cambridge-UC3M Econometrics Ph.D. Students Workshop, ENTER Seminar Mannheim </li></ul></li>
-
-<li>2017
-<ul>
-<li><i>Conferences:</i> EEA-ESEM Lisbon</li>
-
-<li><i>Seminars:</i> UC3M Ph.D. Workshop</li></ul></li>
-
-<li>2016
-<ul>
-<li><i>Seminars:</i> UC3M Ph.D. Workshop, ENTER Jamboree Madrid (as discussant)</li></ul></li>
-
-<li>Pre-Doctor
-<ul>
-<li>The XXVII IUSSP International Population Conference, Busan, Republic of Korean, 2013</li>
-
-<li>The ENRSP International Conference <i>Old Age Crisis and Pension Reform - Where do we stand ?</i> ,Poznan,Poland. 2012</li></ul></li>
-</ul></font>
 
 ### Scholarship & Honor 
 <font size = "3.0"> <ul>
