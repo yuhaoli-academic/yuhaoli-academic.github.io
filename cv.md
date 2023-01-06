@@ -87,7 +87,7 @@ This Version: Nov, 2022
 
 * [_Consistent Test for Conditional Moment Restriction Models in Reproducing Kernel Hilbert Spaces_ (with Xiaojun Song), ](https://yuhaoli-academic.github.io/JMP2.pdf) (Job Market Paper 2) 
 
-* [_Modelling Dynamic Individual Outpatient Claims Using Hawkes Process,_](https://yuhaoli-academic.github.io/Health_Hawkes.pdf)
+* [_Modelling Dynamic Moral Hazard in Individual Outpatient Claims (with Rui Cui),_](https://yuhaoli-academic.github.io/Health_Hawkes.pdf)
 
 * [_Goodness-of-Fit Tests for General Counting Processes_ (with Xiaojun Song and Rui Cui).](https://yuhaoli-academic.github.io/Counting_Proc_test.pdf)
 
