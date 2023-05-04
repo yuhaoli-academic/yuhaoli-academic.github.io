@@ -83,9 +83,8 @@ This Version: Nov, 2022
 
 ### Research
 
-* [_Analyzing Dynamic Multiple Spell Durations using Counting Processes,_](https://yuhaoli-academic.github.io/JMP1.pdf) (Job Market Paper 1)
-
-* [_Consistent Test for Conditional Moment Restriction Models in Reproducing Kernel Hilbert Spaces_ (with Xiaojun Song), ](https://yuhaoli-academic.github.io/JMP2.pdf) (Job Market Paper 2) 
+* [_Analyzing Dynamic Multiple Spell Durations using Counting Processes,_](https://yuhaoli-academic.github.io/JMP1.pdf) 
+* [_Consistent Test for Conditional Moment Restriction Models in Reproducing Kernel Hilbert Spaces_ (with Xiaojun Song), ](https://yuhaoli-academic.github.io/JMP2.pdf)  
 
 * [_Static and Dynamic Incentives in Individual Outpatient Claims: Identification and Quantification (with Rui Cui),_](https://yuhaoli-academic.github.io/Health_Hawkes.pdf)
 
