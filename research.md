@@ -32,10 +32,10 @@ title:
 </html>
 ### Working Paper
 
-* [_Analyzing Dynamic Multiple Spell Durations using Counting Processes,_](https://yuhaoli-academic.github.io/JMP1.pdf) (Job Market Paper 1)
+* [_Analyzing Dynamic Multiple Spell Durations using Counting Processes,_](https://yuhaoli-academic.github.io/JMP1.pdf) 
 > <font size="2.0">I propose a counting process approach to analyze multiple spell duration data. These data are doubly stochastic in a sense that both durations for an individual and the number of durations within a fixed period are random. I allow unobserved individual heterogeneities to enter into the model as fixed effects. In addition, conditional on the individual fixed effect, durations are state dependent. A first-difference transformation is developed to cancel fixed effects, and a minimum distance estimator is re-introduced with simplified proofs. Finite sample properties are investigated in simulations. The approach is applied to studying an individual’s work absence decisions. </font>
 
-* [_Consistent Test for Conditional Moment Restriction Models in Reproducing Kernel Hilbert Spaces_ (with Xiaojun Song), ](https://yuhaoli-academic.github.io/JMP2.pdf) (Job Market Paper 2) 
+* [_Consistent Test for Conditional Moment Restriction Models in Reproducing Kernel Hilbert Spaces_ (with Xiaojun Song), ](https://yuhaoli-academic.github.io/JMP2.pdf) 
 > <font size="2.0">In this paper, we represent Integrated Conditional Moment (ICM) tests in Reproducing Kernel Hilbert Spaces (RKHS). There are several advantages of doing so. First, reproduc-ing kernels embody dimension and integral measure, and hence, are effective dimension reduction tools. This phenomenon can be explained by the isometrically isomorphic relationship among infinite dimensional Hilbert spaces. Second, the test statistics, expressed in terms of kernels, have analytic closed forms, making them easy to compute in practice. Third, one can generate kernels easily and massively from existing kernels. Each kernel corresponds to an ICM test, thus, for certain models, one may obtain a more sensitive test than by using conventional ones. We further propose projection-based kernels to eliminate
 estimation effect, leading to a simple multiplier bootstrap procedure to obtain critical values. A minimum distance estimator is developed as a byproduct. Monte Carlo exercises are performed to examine the finite sample performance of the proposed test, and an empirical application is studied. </font>
 
